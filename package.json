@@ -25,7 +25,7 @@
     "@oclif/plugin-warn-if-update-available": "^2.0.4",
     "@types/jest": "^27.4.0",
     "chalk": "^4.1.2",
-    "inquirer": "^7.3.3",
+    "inquirer": "^8.2.4",
     "node-fetch": "^2.6.7",
     "ora": "^4.1.0",
     "semver": "^7.3.5"
